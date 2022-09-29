@@ -6,7 +6,7 @@
 - 📫 How to reach me: [muhamadangga111213@gmail.com](mailto:muhamadangga111213@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhamad-angga)
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=muhangga&count_private=true&theme=cobalt" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muhangga&count_private=true&theme=cobalt" />
     &nbsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhangga&langs_count=8&layout=compact&theme=cobalt" />
 </p>
