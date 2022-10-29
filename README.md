@@ -14,5 +14,4 @@
 ![Angga' Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhangga&custom_title=Angga's%20Contribution%20Graph&theme=cobalt&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
 
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
