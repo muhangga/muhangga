@@ -10,7 +10,7 @@ jobs:
     name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master
+      - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
@@ -18,4 +18,6 @@ jobs:
           TIME_RANGE: all_time
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          SHOW_COMMIT: true
+          SHOW_LANGUAGE: true
           COMMIT_MESSAGE: "Update Readme with Waka Time Metrics"
