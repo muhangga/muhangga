@@ -11,7 +11,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhangga&langs_count=8&layout=compact&theme=cobalt" />
 </p>
 
-![Angga' Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhangga&custom_title=Angga's%20Contribution%20Graph&theme=cobalt&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+![Angga' Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhangga&custom_title=Angga's%20Contribution%20Graph&theme=elegant&hide_border=true&line=d1a01f&point=c58545)
 
 <!--START_SECTION:waka-->
 
