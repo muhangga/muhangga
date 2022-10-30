@@ -6,9 +6,9 @@
 - 📫 How to reach me: [muhamadangga111213@gmail.com](mailto:muhamadangga111213@gmail.com) or [LinkedIn](https://www.linkedin.com/in/muhamad-angga)
 
 <p align="center">
-    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muhangga&count_private=true&theme=cobalt" />
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=muhangga&count_private=true&theme=elegant" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhangga&langs_count=8&layout=compact&theme=cobalt" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhangga&langs_count=8&layout=compact&theme=elegant" />
 </p>
 
 ![Angga' Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhangga&custom_title=Angga's%20Contribution%20Graph&theme=elegant&hide_border=true&line=d1a01f&point=c58545)
