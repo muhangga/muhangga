@@ -11,7 +11,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhangga&langs_count=8&layout=compact&theme=ocean_dark&show_icons=true" />
 </p>
 
-![Muhamad Angga github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhangga&custom_title=Angga&color=708090&theme=github-dark)](https://github.com/muhangga/github-readme-activity-graph)
+![Muhamad Angga github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=muhangga&custom_title=Angga&color=708090&theme=github-dark)]
+
 
 <!--START_SECTION:waka-->
 
