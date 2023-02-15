@@ -14,4 +14,18 @@
 ![Angga' Activity Graph](https://activity-graph.herokuapp.com/graph?username=muhangga&custom_title=Angga's%20Contribution%20Graph&theme=elegant&hide_border=true&line=d1a01f&point=c58545)
 
 <!--START_SECTION:waka-->
+
+```text
+From: 16 July 2022 - To: 14 February 2023
+
+Total Time: 159 hrs 49 mins
+
+Dart             100 hrs 23 mins >>>>>>>>>>>>>>>>---------   62.82 %
+Go               31 hrs 13 mins  >>>>>--------------------   19.54 %
+PHP              15 hrs 54 mins  >>-----------------------   09.95 %
+Blade Template   2 hrs 13 mins   -------------------------   01.39 %
+Bash             2 hrs 11 mins   -------------------------   01.37 %
+YAML             1 hr 59 mins    -------------------------   01.25 %
+```
+
 <!--END_SECTION:waka-->
