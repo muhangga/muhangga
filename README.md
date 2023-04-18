@@ -17,12 +17,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 July 2022 - To: 15 April 2023
+From: 16 July 2022 - To: 16 April 2023
 
-Total Time: 244 hrs 32 mins
+Total Time: 244 hrs 38 mins
 
-Dart             103 hrs 13 mins >>>>>>>>>>>--------------   42.22 %
-Go               102 hrs 33 mins >>>>>>>>>>---------------   41.94 %
+Dart             103 hrs 13 mins >>>>>>>>>>>--------------   42.20 %
+Go               102 hrs 33 mins >>>>>>>>>>---------------   41.92 %
 PHP              18 hrs 2 mins   >>-----------------------   07.38 %
 Bash             3 hrs 21 mins   -------------------------   01.37 %
 YAML             2 hrs 49 mins   -------------------------   01.15 %
