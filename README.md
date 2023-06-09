@@ -17,9 +17,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2022 - To: 06 June 2023
+From: 16 July 2022 - To: 07 June 2023
 
-Total Time: 281 hrs 58 mins
+Total Time: 281 hrs 59 mins
 
 Dart             115 hrs 47 mins >>>>>>>>>>---------------   41.06 %
 Go               114 hrs 12 mins >>>>>>>>>>---------------   40.50 %
