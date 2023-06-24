@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2022 - To: 21 June 2023
+From: 16 July 2022 - To: 22 June 2023
 
-Total Time: 311 hrs 6 mins
+Total Time: 316 hrs 43 mins
 
-Go               126 hrs 50 mins >>>>>>>>>>---------------   40.77 %
-Dart             123 hrs 7 mins  >>>>>>>>>>---------------   39.58 %
-PHP              22 hrs 27 mins  >>-----------------------   07.22 %
-YAML             6 hrs 25 mins   >------------------------   02.07 %
-Java             5 hrs 20 mins   -------------------------   01.71 %
+Go               126 hrs 50 mins >>>>>>>>>>---------------   40.05 %
+Dart             123 hrs 10 mins >>>>>>>>>>---------------   38.89 %
+PHP              25 hrs 48 mins  >>-----------------------   08.15 %
+YAML             6 hrs 25 mins   >------------------------   02.03 %
+Java             5 hrs 20 mins   -------------------------   01.68 %
 ```
 
 <!--END_SECTION:waka-->
