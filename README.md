@@ -17,15 +17,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2022 - To: 05 January 2026
+From: 16 July 2022 - To: 06 January 2026
 
-Total Time: 675 hrs 59 mins
+Total Time: 683 hrs 37 mins
 
-TypeScript        204 hrs 34 mins >>>>>>>>-----------------   30.26 %
-Go                178 hrs 7 mins  >>>>>>>------------------   26.35 %
-Dart              124 hrs 26 mins >>>>>--------------------   18.41 %
-Java              46 hrs 50 mins  >>-----------------------   06.93 %
-PHP               28 hrs 1 min    >------------------------   04.15 %
+TypeScript        208 hrs 53 mins >>>>>>>>-----------------   30.56 %
+Go                178 hrs 9 mins  >>>>>>>------------------   26.06 %
+Dart              124 hrs 26 mins >>>>>--------------------   18.20 %
+Java              49 hrs 36 mins  >>-----------------------   07.26 %
+PHP               28 hrs 1 min    >------------------------   04.10 %
 ```
 
 <!--END_SECTION:waka-->
