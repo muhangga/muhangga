@@ -39,7 +39,7 @@ var Angga = Engineer{
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 July 2022 - To: 27 October 2026
+From: 16 July 2022 - To: 28 October 2026
 
 Total Time: 743 hrs 6 mins
 
